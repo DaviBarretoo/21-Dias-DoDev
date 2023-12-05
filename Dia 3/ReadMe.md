@@ -18,3 +18,7 @@ Const= é uma constante, ou seja, não pode ser trocado o valor atribuído a ele
 // Operadores aritméticos
 
 + soma             - subtração            / divisão        * multiplicação              % Modúlo
+
+
+
+// Modúlo é o resto da divisão 
